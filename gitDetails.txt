@@ -1,2 +1,22 @@
 if $ git config credential.helper returns manager, the password is stored in the windows credential manager,
 if it returns store, password is stored in a .git-credentials file in the user folder.
+
+
+Personal Access Tokens in github
+two-factor authentication
+SSH, HTTPS
+
+The git remote set-url command changes an existing remote repository URL
+
+An existing remote name. For example, origin or upstream are two common choices.
+
+If you're updating to use HTTPS, your URL might look like:
+
+https://github.com/USERNAME/REPOSITORY.git
+If you're updating to use SSH, your URL might look like:
+
+git@github.com:USERNAME/REPOSITORY.git
+
+
+
+ 
