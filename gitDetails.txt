@@ -1,1 +1,2 @@
-if $ git config credential.helper returns manager, the password is stored in the windows credential manager, if it returns store, password is stored in a .git-credentials file in the user folder.
+if $ git config credential.helper returns manager, the password is stored in the windows credential manager,
+if it returns store, password is stored in a .git-credentials file in the user folder.
